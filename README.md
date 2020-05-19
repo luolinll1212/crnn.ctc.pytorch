@@ -1,2 +1,2 @@
-# crnn.pytorch
-中文字符识别
+# crnn.ctc.pytorch
+crnn.ctc
