@@ -1,0 +1,5 @@
+./data/icdar13/Challenge2_Test_Task3_Images/word_1.png Tiredness
+./data/icdar13/Challenge2_Test_Task3_Images/word_2.png kills
+.
+.
+.
