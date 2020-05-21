@@ -33,3 +33,4 @@ class config(object):
     encoder = "./output/pretrained/encoder_9.pth"
     decoder = "./output/pretrained/decoder_9.pth"
     cuda = True
+
