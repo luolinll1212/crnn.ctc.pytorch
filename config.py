@@ -24,13 +24,7 @@ class config(object):
     pretrained = ""
     interval = 10
     valinterval = 30
-    random_sample = True
-    h_rate = 0.1
-    n_test_disp = 10
 
-    # demo
-    img_path = "./images/20456343_4045240981.jpg"
-    encoder = "./output/pretrained/encoder_9.pth"
-    decoder = "./output/pretrained/decoder_9.pth"
-    cuda = True
+
+
 
