@@ -81,9 +81,8 @@ class AlignCollate(object):
 
 
 if __name__ == '__main__':
-    alphabet = pickle.load(open("../data/alphabet.pkl", 'rb'))
     # text_file = "../data/test_list.txt"
-    text_file = "/home/rose/git/github/OCR/crnn_ctc_pytorch1.0/data/train_text_file.txt"
+    text_file = "../data/train_text_file.txt"
     alphabet = "0123456789abcdefghijklmnopqrstuvwxyz"
     converter = utils.strLabelConverter(alphabet)
     train_set = TextLineDataset(text_file, transform=ResizeNormalize(100, 32), converter=converter)
