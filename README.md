@@ -8,3 +8,4 @@ ___
 
 ## reference
 [https://github.com/yizt/crnn.pytorch](https://github.com/yizt/crnn.pytorch)
+[https://github.com/liuhu-bigeye/enctc.crnn](https://github.com/liuhu-bigeye/enctc.crnn)
